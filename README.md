@@ -13,10 +13,10 @@ In this project, I execute exploratory data analysis on electricity consumption 
 The two data sets span the period 1.1.2023 - 31.8.2026. The Grid data has a frequency of 1 hour. The PV data has a frquency of 1 day.
 
 ## Getting Started
-It is best to excute the materials within a virtual environment. If you are using Linux: 
+It is best to excute the materials within a virtual environment. On Linux: 
 ```bash
 python3 -m venv .venv
-source venv/bin/activate
+source .venv/bin/activate
 ```
 Install the requirements:
 ```bash
