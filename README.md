@@ -15,12 +15,12 @@ The two data sets span the period 1.1.2023 - 31.8.2026. The Grid data has a freq
 ## Getting Started
 It is best to excute the materials within a virtual environment. If you are using Linux: 
 ```bash
-python3 -m venv venv
+python3 -m venv .venv
 source venv/bin/activate
 ```
 Install the requirements:
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
